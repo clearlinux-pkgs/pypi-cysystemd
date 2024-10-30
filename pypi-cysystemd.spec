@@ -7,7 +7,7 @@
 #
 Name     : pypi-cysystemd
 Version  : 1.6.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/b5/66/25fa2eda48dc9c634a2ae1b8c9879ed842359f2d8f3d2bf7bd88783e278c/cysystemd-1.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b5/66/25fa2eda48dc9c634a2ae1b8c9879ed842359f2d8f3d2bf7bd88783e278c/cysystemd-1.6.2.tar.gz
 Summary  : systemd wrapper in Cython
