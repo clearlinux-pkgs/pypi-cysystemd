@@ -1,5 +1,5 @@
 PKG_NAME := pypi-cysystemd
-URL = https://files.pythonhosted.org/packages/b5/66/25fa2eda48dc9c634a2ae1b8c9879ed842359f2d8f3d2bf7bd88783e278c/cysystemd-1.6.2.tar.gz
+URL = https://files.pythonhosted.org/packages/d2/23/00950116890136fddd94fc6a176eb04f006e689bec4db5bf5727587ede09/cysystemd-2.0.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
